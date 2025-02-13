@@ -26,12 +26,19 @@ Pour exécuter ce projet, il faut avoir installé les éléments suivants :
 ## Structure des fichiers
 
 ├── index.php          # Page principale (connexion)
+
 ├── register.php       # Page d'inscription
+
 ├── register_process.php  # Traitement de l'inscription
+
 ├── login.php          # Traitement de la connexion
+
 ├── script.js          # JavaScript pour valider les mots de passe côté client
+
 ├── style.css          # Styles CSS pour l'apparence du formulaire
+
 ├── users.json         # Fichier JSON contenant les utilisateurs enregistrés
+
 └── README.md          # Ce fichier
 
 ## Fonctionnement du stockage
